@@ -12,8 +12,8 @@ Hello,
 
 6.I had used the verious python laibraries in this model training like 
 
-computation and analysis = pandas,numpy
+1.computation and analysis = pandas,numpy
 
-visualization = matplotlib,seaborn
+2.visualization = matplotlib,seaborn
 
-machine learning model = sklearn
+3.machine learning model = sklearn
